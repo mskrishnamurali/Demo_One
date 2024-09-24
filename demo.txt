@@ -3,3 +3,5 @@ first line added to branch a
 second line added to branch a
 third line added to branch a
 fourth line added to branch a
+
+seventh line added to branch a
